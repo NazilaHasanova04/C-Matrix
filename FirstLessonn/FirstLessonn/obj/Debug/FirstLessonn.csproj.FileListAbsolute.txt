@@ -1,0 +1,8 @@
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\bin\Debug\FirstLessonn.exe.config
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\bin\Debug\FirstLessonn.exe
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\bin\Debug\FirstLessonn.pdb
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\obj\Debug\FirstLessonn.csproj.AssemblyReference.cache
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\obj\Debug\FirstLessonn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\obj\Debug\FirstLessonn.csproj.CoreCompileInputs.cache
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\obj\Debug\FirstLessonn.exe
+C:\Users\Azay\Desktop\C#Matrix\FirstLessonn\FirstLessonn\obj\Debug\FirstLessonn.pdb
