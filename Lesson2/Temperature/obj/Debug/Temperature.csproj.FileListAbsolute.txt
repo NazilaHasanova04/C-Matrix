@@ -1,0 +1,8 @@
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\bin\Debug\Temperature.exe
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\bin\Debug\Temperature.pdb
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\obj\Debug\Temperature.csproj.AssemblyReference.cache
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\obj\Debug\Temperature.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\obj\Debug\Temperature.exe
+C:\Users\Azay\Desktop\C#Matrix\Lesson2\Temperature\obj\Debug\Temperature.pdb
