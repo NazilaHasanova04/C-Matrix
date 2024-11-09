@@ -1,19 +1,17 @@
-.vs/FirstLessonn/FirstLessonn/bin/
-.vs/FirstLessonn/FirstLessonn/obj/
-.vs/FirstLessonn/FirstLessonn/FirstLessonn.csproj/
+FirstLessonn/FirstLessonn/bin/
+FirstLessonn/FirstLessonn/obj/
+FirstLessonn/.vs/
 
-.vs/Lesson2/CheckVariables/bin/
-.vs/Lesson2/CheckVariables/obj/
-.vs/Lesson2/CheckVariables/CheckVariables.csproj/
+Lesson2/.vs/
 
-.vs/Lesson2/IncrementAndDecrement/bin/
-.vs/Lesson2/IncrementAndDecrement/obj/
-.vs/Lesson2/IncrementAndDecrement/IncrementAndDecrement.csproj/
+Lesson2/CheckVariables/bin/
+Lesson2/CheckVariables/obj/
 
-.vs/Lesson2/Lesson2/bin/
-.vs/Lesson2/Lesson2/obj/
-.vs/Lesson2/Lesson2/Lesson2.csproj/
+Lesson2/IncrementAndDecrement/bin/
+Lesson2/IncrementAndDecrement/obj/
 
-.vs/Lesson2/Temperature/bin/
-.vs/Lesson2/Temperature/obj/
-.vs/Lesson2/Temperature/Temperature.csproj/
+Lesson2/Lesson2/bin/
+Lesson2/Lesson2/obj/
+
+Lesson2/Temperature/bin/
+Lesson2/Temperature/obj/
