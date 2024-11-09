@@ -1,8 +1,0 @@
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\bin\Debug\IncrementAndDecrement.exe.config
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\bin\Debug\IncrementAndDecrement.exe
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\bin\Debug\IncrementAndDecrement.pdb
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\obj\Debug\IncrementAndDecrement.csproj.AssemblyReference.cache
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\obj\Debug\IncrementAndDecrement.csproj.SuggestedBindingRedirects.cache
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\obj\Debug\IncrementAndDecrement.csproj.CoreCompileInputs.cache
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\obj\Debug\IncrementAndDecrement.exe
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\IncrementAndDecrement\obj\Debug\IncrementAndDecrement.pdb

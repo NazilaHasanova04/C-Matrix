@@ -1,8 +1,0 @@
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\bin\Debug\CheckVariables.exe.config
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\bin\Debug\CheckVariables.exe
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\bin\Debug\CheckVariables.pdb
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\obj\Debug\CheckVariables.csproj.AssemblyReference.cache
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\obj\Debug\CheckVariables.csproj.SuggestedBindingRedirects.cache
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\obj\Debug\CheckVariables.csproj.CoreCompileInputs.cache
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\obj\Debug\CheckVariables.exe
-C:\Users\Azay\Desktop\C#Matrix\Lesson2\CheckVariables\obj\Debug\CheckVariables.pdb
